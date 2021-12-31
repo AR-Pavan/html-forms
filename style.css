@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1,
+#description {
+    text-align: center;
+    color: rgb(17, 161, 118);
+}
+
+label {
+    color: rgb(131, 109, 10);
+}
+
+#tableId {
+    Text-align: center;
+    background-color: rgb(145, 227, 233);
+    border: 2px solid rgb(226, 93, 93);
+}
+
+#myForm {
+    margin: 10px;
+    padding: 30px;
+    border: 2px solid rgb(71, 18, 18);
+}
